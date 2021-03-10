@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors appointment",
+      "day": "March 5th at 5:00pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Birthday ishan gandu ka",
+      "day": "March 6th at 5:00pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Back to Padai",
+      "day": "March 7th at 11:00am",
+      "reminder": true
+    }
+  ]
+}
